@@ -12,7 +12,7 @@ public class Mathe extends Console
         System.out.print("Geben Sie y ein: ");
         y = readInt();
         
-        z = x / y;
+        z = x / y; // test
         System.out.println("Ergebnis der Division x/y = "+ z);
     }
     
