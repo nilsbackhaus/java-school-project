@@ -1,0 +1,13 @@
+#BlueJ class context
+#Tue Sep 15 11:47:04 CEST 2026
+comment0.target=Console
+comment1.target=boolean readBoolean()
+comment2.target=java.lang.String readString()
+comment3.target=char readChar()
+comment4.target=long readLong()
+comment5.target=short readShort()
+comment6.target=byte readByte()
+comment7.target=double readDouble()
+comment8.target=int readInt()
+comment9.target=float readFloat()
+numComments=10
